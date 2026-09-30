@@ -1,0 +1,6 @@
+{
+  "name": "Vương Quốc Số Hữu Tỉ - Toán 7",
+  "description": "Trò chơi học tập ôn tập Chương 1 Toán 7 Kết nối tri thức sinh động, nhân vật hoạt hình dễ thương, tích điểm, bảng xếp hạng và bí kíp công thức siêu tốc.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
